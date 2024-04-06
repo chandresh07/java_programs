@@ -1,3 +1,9 @@
+
+    // addition of three numbers in java
+
+
+
+
 class adittion 
 {
 public static void main (String[]args){
